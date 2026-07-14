@@ -295,21 +295,6 @@ python seed.py --force
 
 ---
 
-## Upwork Portfolio Case Study
-
-Built and owned solely by **Asif Fiaz**.
-
-This project demonstrates full-stack AI automation skills including AI lead scoring, CRM workflow design, CSV data import, sales pipeline management, AI-generated email drafts, follow-up automation, analytics dashboards, FastAPI backend development, React frontend development, PostgreSQL database design, and production-style SaaS architecture.
-
-Ideal portfolio angles:
-
-- AI automation for sales teams  
-- Lead generation / qualification systems  
-- Full-stack SaaS MVP delivery  
-- Business growth tooling  
-
----
-
 ## Author
 
 **Asif Fiaz** — sole owner, author, and maintainer of this repository.
