@@ -307,4 +307,3 @@ python seed.py --force
 
 MIT License © Asif Fiaz
 
-Use freely for portfolio, demos, and client proposals with attribution.
